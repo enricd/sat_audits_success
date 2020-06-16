@@ -1,4 +1,4 @@
-# sat_audits_success
+# sat_success_audit
 Successful audits from the different Storj V3 Satellites (for Windows Power Shell)
 
 This is a short adaptation from the complete success rate script from Alexey ALeonov https://github.com/AlexeyALeonov/success_rate
