@@ -15,7 +15,7 @@ To specify path to the log file, you can use an optional parameter -Path:
 
 `.\successrate.ps1 -Path x:\storagenode\node.log`
 
-It is possible to take some seconds before printing the results, specially with long log files.
+It is possible that it takes some seconds before printing the results, specially with long log files.
 
 
 ### - You may need to enable the execution policy
