@@ -5,18 +5,20 @@ This is a short adaptation from the complete success rate script from Alexey ALe
 
 In this script just the total success audits from all satellites and also from which specific satellite are counted.
 
-#### 1. Download the repository
+### 1. Download the repository
 
 
-#### 2. Run it
+### 2. Run it
 `.\sat_success_audits` 
 
 To specify path to the log file, you can use an optional parameter -Path:
 
 `.\successrate.ps1 -Path x:\storagenode\node.log`
 
+It is possible to take some seconds before printing the results, specially with long log files.
 
-#### - You may need to enable the execution policy
-Execute in Power Shell as admin
+
+### - You may need to enable the execution policy
+Execute in Power Shell as admin:
 
 `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned`
